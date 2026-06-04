@@ -2,11 +2,6 @@
 
 A fully functional custom 21-bit CPU designed and simulated in **Logisim Evolution**, implementing Von Neumann architecture with a complete ISA, custom ALU, Booth's multiplication, and a microinstruction-based control unit.
 
-> **Course:** CSE 2114 — Computer Architecture Lab  
-> **Institution:** Khulna University of Engineering & Technology (KUET)  
-> **Submitted to:** Md. Badiuzzaman Shuvo & Md. Mubtashim Abrar Nihal, Lecturers, CSE, KUET  
-> **Author:** Md. Rafid Reza — Roll: 2307120
-
 ---
 
 ## Table of Contents

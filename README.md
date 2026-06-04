@@ -236,7 +236,7 @@ v2.0 raw
 
 ## How to Run
 
-1. Install [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution/releases) (v3.x or later recommended)
+1. Install [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution/releases) (hard recommend on logisim 2.7.1)
 2. Open `comp.circ` — this is the top-level file containing the full computer
 3. Load a program into the main memory (RAM) using Logisim's hex editor (`v2.0 raw` format)
 4. Ensure instructions are placed in the **code segment** and data values in the **data segment**
